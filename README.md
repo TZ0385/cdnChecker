@@ -105,3 +105,4 @@ $./cdnChecker -df domains.txt -cf cdn_cname -r resolvers.txt | mapcidr -aggregat
 ## 感谢
 
 https://github.com/xiaoyiios/chinacdndomianlist
+https://github.com/u9sky/cdn-cname-domain
